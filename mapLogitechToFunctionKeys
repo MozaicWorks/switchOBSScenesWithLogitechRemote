@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+xmodmap -e "keycode 112 = F7"
+xmodmap -e "keycode 117 = F8"
